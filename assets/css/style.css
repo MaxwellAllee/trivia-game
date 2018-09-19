@@ -1,0 +1,27 @@
+body{
+    background-image: url(../images/stardust.png);
+}
+.container{
+    height: 80%;
+}
+.jumbotron{
+  width: 80%;
+  height: 80%;
+  background-color: white;
+  opacity: .8;
+}
+
+.vertical-center{
+  display: flex;
+  align-items: center;
+}
+.top{
+    background-color: white;
+
+}
+.middle{
+    min-height: 100px;
+}
+.bottom{
+    min-height: 400px;
+}
